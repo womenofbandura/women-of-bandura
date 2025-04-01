@@ -17,7 +17,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Women of Bandura'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
@@ -57,15 +57,16 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  exhibits:
-    output: true
-  qatar: # name of collection
+  programs: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'program_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
-    images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'programs.csv' # path to the metadata file within `_data`
+  songs:
+    output: true
+    layout: 'song_item'
+    metadata:
+      source: 'songs.csv'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
