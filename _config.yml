@@ -67,6 +67,8 @@ collections:
     layout: 'song_item'
     metadata:
       source: 'songs.csv'
+    images:
+      source: 'raw_images/songs'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
