@@ -2,18 +2,21 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
+  collection: women of bandura
   pid: obj10
   y: 25%
   clickable: yes
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+<div style="text-align: center;">
+  <img src="https://github.com/womenofbandura/women-of-bandura/tree/3c3d91761d1c052e5a9717c40f6155bbcbdb88a1/img/WOBbanner.jpg" alt="Banner Image" width="500" height="100">
+  <p>Project for the Spring 2025 Praxis Course!</p>
+</div>
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+![Project Logo](https://github.com/womenofbandura/women-of-bandura/tree/3c3d91761d1c052e5a9717c40f6155bbcbdb88a1/img/WOBLogo.png)
 
-### Browse the Collection
+# Women of Bandura
 
-#### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+### Browse the Programs
+
