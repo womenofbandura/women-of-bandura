@@ -22,4 +22,7 @@ youtube-link: " "
 order: '13'
 layout: song_item
 collection: songs
+thumbnail: ''
+full: ''
+manifest: ''
 ---

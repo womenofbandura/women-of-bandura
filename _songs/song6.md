@@ -27,4 +27,7 @@ youtube-link: " "
 order: '05'
 layout: song_item
 collection: songs
+thumbnail: ''
+full: ''
+manifest: ''
 ---

@@ -1,0 +1,21 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/programs.json",
+  "@type": "sc:Collection",
+  "label": "programs",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/PROG2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "PROG2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/PROG1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "PROG1"
+    }
+  ]
+}
