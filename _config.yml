@@ -22,11 +22,7 @@ description:      'Minimal Exhibitions with Jekyll'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2023'
-<<<<<<< Updated upstream
-logo:             '/assets/logo.png'
-=======
 logo:             '/img/WOBLogo.png'
->>>>>>> Stashed changes
 default_thumb:    '/assets/default.png'
 
 # ---------------------------------------------------------------
