@@ -62,11 +62,15 @@ collections:
     layout: 'program_item' # the layout for the pages to use
     metadata:
       source: 'programs.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/programs'
   songs:
     output: true
     layout: 'song_item'
     metadata:
       source: 'songs.csv'
+    images:
+      source: 'raw_images/songs'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS

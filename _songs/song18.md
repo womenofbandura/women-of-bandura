@@ -22,4 +22,7 @@ youtube-link: " "
 order: '17'
 layout: song_item
 collection: songs
+thumbnail: "/img/derivatives/iiif/images/SONG18_0/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/SONG18_0/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/SONG18/manifest.json"
 ---
