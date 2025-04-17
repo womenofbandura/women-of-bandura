@@ -29,7 +29,7 @@ sponsors: University of Pittsburgh ; Heritage Foundation of First Security Feder
   Union (Chicago, IL); Irka Zawadiwska
 design: Julian Hayda
 song-keys: SONG2; SONG3; SONG14; SONG5; SONG15; SONG16; SONG17; SONG7; SONG18; SONG9;
-  SONG19; SONG20; SONG21; SONG12; SONG11; SONG13
+  SONG19; SONG20; SONG21; SONG12; SONG11; SONG13a; SONG13b; SONG13c
 order: '1'
 layout: program_item
 collection: programs
