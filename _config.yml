@@ -22,7 +22,7 @@ description:      'In Collaboration with WBENA'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'WBENA, 2025'
-logo:             'img/WBENA_Logo.png'
+logo:             'img/WOBLogo.png'
 default_thumb:    '/assets/default.png'
 
 # ---------------------------------------------------------------
