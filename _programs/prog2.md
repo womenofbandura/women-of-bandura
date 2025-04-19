@@ -33,4 +33,7 @@ song-keys: SONG2; SONG3; SONG14; SONG5; SONG15; SONG16; SONG17; SONG7; SONG18; S
 order: '1'
 layout: program_item
 collection: programs
+thumbnail: "/img/derivatives/iiif/images/PROG2_cover/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/PROG2/manifest.json"
+full: "/img/derivatives/iiif/images/PROG2_cover/full/1140,/0/default.jpg"
 ---

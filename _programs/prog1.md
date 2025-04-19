@@ -32,4 +32,7 @@ song-keys: SONG1; SONG2; SONG3; SONG4; SONG5; SONG6; SONG7; SONG8; SONG9; SONG10
 order: '0'
 layout: program_item
 collection: programs
+thumbnail: "/img/derivatives/iiif/images/PROG1_0/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/PROG1/manifest.json"
+full: ''
 ---
