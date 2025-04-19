@@ -19,7 +19,8 @@ lyricist: " "
 arrangement: " "
 additional: " "
 youtube-link: https://www.youtube.com/watch?v=NECvzvOzZLQ
-order: '01'
+recording: "/assets/recordings/SONG2-Homin-Stepiv.mp3"
+order: '1'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG2_0/full/250,/0/default.jpg"
