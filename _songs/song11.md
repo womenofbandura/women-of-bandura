@@ -19,6 +19,7 @@ lyricist: Vasyl Symonenko
 arrangement: Mykola Deychakiwsky
 additional: " "
 youtube-link: https://www.youtube.com/watch?v=36vhsTGXlko
+recording:
 order: '10'
 layout: song_item
 collection: songs

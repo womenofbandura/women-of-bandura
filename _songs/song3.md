@@ -19,7 +19,8 @@ lyricist: Mykhailo Tkach |
 arrangement: Volodymyr Lobko (Arrangement in the public)
 additional: " "
 youtube-link: https://www.youtube.com/watch?v=iUFmmO2yysc
-order: '02'
+recording:
+order: '2'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG3_0/full/250,/0/default.jpg"

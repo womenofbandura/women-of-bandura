@@ -24,10 +24,11 @@ lyricist: " "
 arrangement: " "
 additional: " "
 youtube-link: " "
-order: '05'
+recording:
+order: '5'
 layout: song_item
 collection: songs
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail:
+full:
+manifest:
 ---

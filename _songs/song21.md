@@ -19,10 +19,11 @@ lyricist: " "
 arrangement: Anastasiia Voytyuk
 additional: Performed by East Coast & Mid-Atlantic Regional Groups
 youtube-link: " "
-order: '20'
+recording:
+order: '22'
 layout: song_item
 collection: songs
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail:
+full:
+manifest:
 ---

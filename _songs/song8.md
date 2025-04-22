@@ -19,7 +19,8 @@ lyricist: Oleksander Konysky
 arrangement: Oleksander Koshyts
 additional: " "
 youtube-link: " "
-order: '07'
+recording:
+order: '7'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG8_0/full/250,/0/default.jpg"

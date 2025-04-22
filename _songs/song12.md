@@ -25,6 +25,7 @@ arrangement:
 additional: Although the theme of the song is sad - the song is widely sung due to
   its uplifting nature and easy-to-sing melody.
 youtube-link: " "
+recording:
 order: '11'
 layout: song_item
 collection: songs

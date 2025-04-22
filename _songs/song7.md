@@ -24,7 +24,8 @@ lyricist: " "
 arrangement: Ivan Dusanowskyj
 additional: Based on Rozhanytsya's rendition?
 youtube-link:
-order: '06'
+recording:
+order: '6'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG7_0/full/250,/0/default.jpg"

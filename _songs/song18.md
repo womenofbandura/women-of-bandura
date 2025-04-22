@@ -19,7 +19,8 @@ lyricist: " "
 arrangement: Hanna Havrylets
 additional: 'Trans. for female choir: V. Chuchman'
 youtube-link: " "
-order: '17'
+recording:
+order: '19'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG18_0/full/250,/0/default.jpg"
