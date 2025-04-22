@@ -20,7 +20,8 @@ lyricist: " "
 arrangement: Victor Kytasty
 additional: " "
 youtube-link: https://www.youtube.com/watch?v=9XXKXNSpsgg
-order: '09'
+recording:
+order: '9'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG10_0/full/250,/0/default.jpg"

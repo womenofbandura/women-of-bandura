@@ -19,7 +19,8 @@ lyricist: " "
 arrangement: Teryn Kytasty-Kuzma
 additional: Performed by East Coast and Mid-Atlantic Region
 youtube-link: " "
-order: '15'
+recording:
+order: '17'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG16_0/full/250,/0/default.jpg"

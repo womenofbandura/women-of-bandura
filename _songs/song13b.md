@@ -19,6 +19,7 @@ lyricist:
 arrangement:
 additional:
 youtube-link:
+recording:
 order: '13'
 layout: song_item
 collection: songs

@@ -19,7 +19,8 @@ lyricist: " "
 arrangement: Ola Herasymenko-Olijnyk
 additional: " "
 youtube-link: " "
-order: '08'
+recording:
+order: '8'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG9_0/full/250,/0/default.jpg"

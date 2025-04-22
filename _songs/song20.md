@@ -19,10 +19,11 @@ lyricist: " "
 arrangement: Nick and Maria Smereka-Hladio
 additional: Performed by Mid-Atlantic Trio
 youtube-link: " "
-order: '19'
+recording:
+order: '21'
 layout: song_item
 collection: songs
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail:
+full:
+manifest:
 ---

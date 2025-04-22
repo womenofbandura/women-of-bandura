@@ -19,7 +19,8 @@ lyricist: " "
 arrangement: Ivan Dusanowsyj
 additional: Crimean Folk Song
 youtube-link: " "
-order: '18'
+recording:
+order: '20'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG19_0/full/250,/0/default.jpg"
