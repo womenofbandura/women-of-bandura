@@ -2,13 +2,19 @@
 layout: default
 ---
 
+<script type='text/javascript' src="{{ '/assets/utils.js' | absolute_url }}"></script>
+<script type='text/javascript'>
+  var item = {{ page | jsonify }};
+  $(document).ready(function() {
+    var yearString = trimDate(item);
+    document.getElementById('js-show-date').innerHTML = " – " + yearString
+  });
+</script>
 {% comment %}
   The block below controls the image viewer
 {% endcomment %}
 
-<p>PROGRAM LAYOUTT!!!!</p>
-
-<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.label }}</h3>
+<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.label }}<span id="js-show-date"></span></h3>
   <div class='item-view'>
     <span class='pagination-link' id='prevlink'></span>
 
