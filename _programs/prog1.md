@@ -20,7 +20,7 @@ song-keys: SONG1
 order: '0'
 layout: program_item
 collection: programs
-thumbnail: "/img/derivatives/iiif/images/PROG1/full/250,/0/default.jpg"
+thumbnail: "/img/derivatives/iiif/images/PROG1_0/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/PROG1/manifest.json"
-full: "/img/derivatives/iiif/images/PROG1/full/1140,/0/default.jpg"
+full: "/img/derivatives/iiif/images/PROG1_0/full/1140,/0/default.jpg"
 ---
