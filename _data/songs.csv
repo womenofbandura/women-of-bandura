@@ -1,3 +1,3 @@
 pid,label,ukrainian-title,composer,period,language,location-of-origin,genre,theme,tempo,time-sig,key,description,lyrics,lyrics-english,translator,lyricist,arrangement,additional,youtube-link,recording,order,layout,collection,thumbnail,full,manifest
 SONG1,Check back here soon!,"Поверніться пізніше
-",TBD,TBD,,,,,,,,,,,,,,,,/assets/recordings/coming_soon.mp3,0,song_item,songs,"/img/derivatives/iiif/images/SONG1/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG1/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG1/manifest.json
+",TBD,TBD,,,,,,,,,,,,,,,,../../assets/recordings/coming_soon.mp3,0,song_item,songs,"/img/derivatives/iiif/images/SONG1_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG1_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG1/manifest.json

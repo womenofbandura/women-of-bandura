@@ -32,3 +32,9 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
+
+{% if page.recording %}
+  <audio controls="controls">
+    <source src="{{page.recording}}" type="audio/mpeg" />
+  </audio>
+{% endif %}
