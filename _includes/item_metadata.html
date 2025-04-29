@@ -24,8 +24,16 @@
           {%- endcapture -%}
         {% endif %}
       {% endif %}
-        <dt>{{ item.label }}</dt>
-        <dd>{{ value | strip }}</dd>
+        {% if item.label == 'Songs' %}
+          <dt>{{ item.label }}</dt>
+          {%  for song in value.split('; ', 0) %}
+            <dd>{{ song }}</dd></d>
+          {% endfor %}
+          <dd>{{ puts value }}</dd>
+        {% else %}
+          <dt>{{ item.label }}</dt>
+          <dd>{{ value | strip }}</dd>
+        {% endif %}
     {% endif %}
   {% endfor %}
 </dl>

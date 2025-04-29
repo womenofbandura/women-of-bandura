@@ -13,7 +13,7 @@ layout: default
 {% comment %}
   The block below controls the image viewer
 {% endcomment %}
-
+<div class='left-panel'>
 <h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.label }}<span id="js-show-date"></span></h3>
   <div class='item-view'>
     <span class='pagination-link' id='prevlink'></span>
@@ -26,6 +26,7 @@ layout: default
     
     <span class='pagination-link' id='nextlink'></span>
   </div>
+</div>
   {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
 
 {% comment %}
