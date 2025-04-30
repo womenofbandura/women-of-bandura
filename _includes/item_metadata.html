@@ -24,12 +24,15 @@
           {%- endcapture -%}
         {% endif %}
       {% endif %}
+        {% if item.label == 'Performers' %}
+        {% endif %}
         {% if item.label == 'Songs' %}
           <dt>{{ item.label }}</dt>
-          {%  for song in value.split('; ', 0) %}
-            <dd>{{ song }}</dd></d>
+          {% assign arr = value | split: '; ' %}
+          {% for key in arr %}
+            {% assign song = site.songs | find: "pid", key %}
+            <dd><a href="{{site.baseurl}}/songs/{{ key }}">{{song.label}}</a></dd>
           {% endfor %}
-          <dd>{{ puts value }}</dd>
         {% else %}
           <dt>{{ item.label }}</dt>
           <dd>{{ value | strip }}</dd>
