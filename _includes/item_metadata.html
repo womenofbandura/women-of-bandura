@@ -24,7 +24,13 @@
             </a>
           {%- endcapture -%}
         {% endif %}
+      <!-- end link if -->
       {% endif %}
+
+      <!-- program metadata -->
+      {% comment %}
+        Treatment for program metadata
+      {% endcomment %}
         {% if item.label == 'Location' %}
             <dt>{{item.label}}</dt>
             {% assign cityArr = value | split: '; ' %}
@@ -43,10 +49,19 @@
             {% assign song = site.songs | find: "pid", key %}
             <dd><a href="{{site.baseurl}}/songs/{{ key }}">{{song.label}}</a></dd>
           {% endfor %}
+        <!-- song metadata -->
+        {% comment %}
+          Treatment for song metadata
+        {% endcomment %}
+        {% elsif item.label == "Title" %}
+          <dt>{{item.label}}</dt>
+          <dd>{{ value | strip }} {% if page.ukrainian-title %} ({{page.ukrainian-title}}) {% endif %}</dd>
         {% else %}
           <dt>{{ item.label }}</dt>
           <dd>{{ value | strip }}</dd>
+        <!-- end special metadata treatment if cases -->
         {% endif %}
+    <!-- end outer if statement -->
     {% endif %}
   {% endfor %}
 </dl>

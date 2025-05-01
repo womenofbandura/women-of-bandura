@@ -166,6 +166,10 @@ content section
       min-width: 50%;
     }
 
+    .right-panel {
+      max-width: 40%;
+    }
+
     .exhibit-meta {
       margin-bottom: $super-margin;
 
@@ -376,7 +380,6 @@ item pages (iiif + metadata)
 
 .metadata-block {
   font-family: $body-font;
-  max-width: 40%;
   border: $neutral 1px solid;
   border-radius: 3px;
   padding: $less-margin;
