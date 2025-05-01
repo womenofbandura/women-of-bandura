@@ -19,10 +19,11 @@ lyricist: " "
 arrangement: Victor Mishalow
 additional: " "
 youtube-link: " "
-order: '04'
+recording:
+order: '4'
 layout: song_item
 collection: songs
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail:
+full:
+manifest:
 ---

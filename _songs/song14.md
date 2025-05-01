@@ -19,10 +19,11 @@ lyricist: " "
 arrangement: " "
 additional: Performed by The Chicago Bandura Ensemble
 youtube-link: " "
-order: '13'
+recording:
+order: '15'
 layout: song_item
 collection: songs
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail:
+full:
+manifest:
 ---

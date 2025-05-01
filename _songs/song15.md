@@ -19,10 +19,11 @@ lyricist: Bohdan Hura
 arrangement: T. Ivashchuk
 additional: Performed by Toronto Regional Group
 youtube-link: " "
-order: '14'
+recording:
+order: '16'
 layout: song_item
 collection: songs
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail:
+full:
+manifest:
 ---

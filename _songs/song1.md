@@ -22,7 +22,8 @@ lyricist:
 arrangement: Lesya Klimchenko
 additional: " "
 youtube-link: https://www.youtube.com/watch?v=E72THjx_CG4
-order: '00'
+recording:
+order: '0'
 layout: song_item
 collection: songs
 thumbnail: "/img/derivatives/iiif/images/SONG1_0/full/250,/0/default.jpg"

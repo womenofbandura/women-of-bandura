@@ -247,7 +247,8 @@ content section
       text-decoration: none;
     }
     img {
-      height: 35px
+      max-height: 50px;
+      min-width: 70px;
     }
   }
 }

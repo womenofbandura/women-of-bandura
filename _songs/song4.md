@@ -19,10 +19,11 @@ lyricist: Ivan Vytvytsky
 arrangement: L. Duda
 additional: Favorite of the Sich Riflemen
 youtube-link: " "
-order: '03'
+recording:
+order: '3'
 layout: song_item
 collection: songs
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail:
+full:
+manifest:
 ---
