@@ -3,18 +3,21 @@ layout: default
 ---
 
 <script type='text/javascript' src="{{ '/assets/utils.js' | absolute_url }}"></script>
-<script type='text/javascript'>
-  var item = {{ page | jsonify }};
-  $(document).ready(function() {
-    var yearString = trimDate(item);
-    document.getElementById('js-show-date').innerHTML = " – " + yearString
-  });
-</script>
 {% comment %}
   The block below controls the image viewer
 {% endcomment %}
+
+{% assign dateSplit = page.show-date | split: ';' %}
+{% assign yearString = '' %}
+{% assign yearArray = yearString | split: ',' %}
+{% for str in dateSplit %}
+  {% assign dateParts = str | split: '/' %}
+  {% assign year = dateParts | last %}
+  {% assign yearArray = yearArray | push: year %}
+{% endfor %}
+
 <div class='left-panel'>
-<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.label }}<span id="js-show-date"></span></h3>
+<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.label }}{{ " - " }}{{ yearArray | uniq }}</h3>
   <div class='item-view'>
     <span class='pagination-link' id='prevlink'></span>
 

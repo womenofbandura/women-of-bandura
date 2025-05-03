@@ -155,12 +155,13 @@ content section
     max-width: 100%;
   }
 
-  
+  .item-content { 
+    display: flex;
+    justify-content: space-between;
+  }
 
   #wax-content {
     min-height: 70vh;
-    display: flex;
-    justify-content: space-between;
 
     .left-panel {
       min-width: 50%;
