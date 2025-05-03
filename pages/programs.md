@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Women of Bandura Collection
+title: Women of Bandura Program Collection
 permalink: /programs/
 ---
 
-More info coming.
+{% include collection_gallery.html collection='programs' facet_by='show-date' %}

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Women of Bandura Collection
+title: Songs
 permalink: /songs/
 ---
 
-HELLO WORLD!
+{% include collection_gallery.html collection='songs' facet_by='genre' %}
