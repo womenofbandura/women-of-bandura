@@ -16,7 +16,7 @@ layout: default
     {% elsif page.full.size > 0 %}
       {% include simple_image_viewer.html full_image=page.full %}
     {% else %}
-      {% include simple_image_viewer.html full_image='/assets/img/WOBLogo.png' %}
+      {% include osd_iiif_image_viewer.html manifest="/img/derivatives/iiif/SONG4/manifest.json"%}
     {% endif %}
     
     <span class='pagination-link' id='nextlink'></span>

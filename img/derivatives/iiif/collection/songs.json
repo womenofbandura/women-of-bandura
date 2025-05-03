@@ -78,6 +78,11 @@ layout: none
       "label": "SONG3"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/SONG4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "SONG4"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/SONG13c/manifest.json",
       "@type": "sc:Manifest",
       "label": "SONG13c"

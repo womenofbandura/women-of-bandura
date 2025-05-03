@@ -23,7 +23,7 @@ recording:
 order: '3'
 layout: song_item
 collection: songs
-thumbnail:
-full:
-manifest:
+thumbnail: "/img/derivatives/iiif/images/SONG4_0/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/SONG4_0/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/SONG4/manifest.json"
 ---
