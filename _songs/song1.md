@@ -20,7 +20,7 @@ lyrics-english: 'Beneath Thy Mercy - we take refuge - O Virgin: disdain not our 
 translator:
 lyricist:
 arrangement: Lesya Klimchenko
-additional: " "
+additional:
 youtube-link: https://www.youtube.com/watch?v=E72THjx_CG4
 recording:
 order: '0'
