@@ -55,11 +55,20 @@
         {% endcomment %}
         {% elsif item.label == "Title" %}
           <dt>{{item.label}}</dt>
-          <dd>{{ value | strip }} {% if page.ukrainian-title %} ({{page.ukrainian-title}}) {% endif %}</dd>
+          <dd>{{ value | strip }} {% if page.ukrainian-title %} / {{page.ukrainian-title}} {% endif %}</dd>
+        {% elsif item.label == 'Theme(s)' %}
+          <dt>{{item.label}}</dt>
+          <dd>{{ value | split: ';' | join: ', '}}</dd>
+        {% elsif item.label == 'Lyrics' %}
+          <dt>{{ item.label}}</dt>
+          <dd>{{ value | strip}}</dd>
+          {% if page.lyrics %}
+            <dd>{{page.lyrics}}</dd>
+          {% endif %}
+        <!-- end special metadata treatment if cases -->
         {% else %}
           <dt>{{ item.label }}</dt>
           <dd>{{ value | strip }}</dd>
-        <!-- end special metadata treatment if cases -->
         {% endif %}
     <!-- end outer if statement -->
     {% endif %}
