@@ -13,7 +13,13 @@
 
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>
+        {%if page.pid %}
+          <div class='item-content'>
+        {% endif %}
         {{ content }}
+        {%if page.pid %}
+          </div>
+        {% endif %}
       </div>
     </div>
 
