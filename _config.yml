@@ -103,7 +103,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'About Women in Bandura'
+      - label: 'History of Women in Bandura'
         link: '/about/history/'
       - label: 'About the team'
         link: '/about/team/'
