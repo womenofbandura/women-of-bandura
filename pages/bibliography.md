@@ -8,6 +8,8 @@ Bandura at Bobriwka. [https://bandura-at-bobriwka.com/](https://bandura-at-bobri
 
 Bojanowska, Edyta M. “A Ticket to Europe: Collections of Ukrainian Folk Songs and Their Russian Reviewers, 1820s–1830s,” in *Ukraine and Europe: Cultural Encounters and Negotiations*, edited by Bercoff, Giovanna Brogi, et al., University of Toronto Press, 2017\. *ProQuest Ebook Central*, [https://ebookcentral.proquest.com/lib/cunygc/detail.action?docID=5171118](https://ebookcentral.proquest.com/lib/cunygc/detail.action?docID=5171118).
 
+Kobzarska Sich [https://www.banduracamp.org/](https://www.banduracamp.org/)
+
 Komichak, Markian. The Ukrainian Church Music Archive. [https://ukrainianchurchmusicarchive.com/choir-directors/k/kytasty-hryhory/](https://ukrainianchurchmusicarchive.com/choir-directors/k/kytasty-hryhory/)
 
 Kononenko, Natalie O. *Ukrainian Minstrels: Why the Blind Should Sing : And the Blind Shall Sing*, Taylor & Francis Group, 1997\. *ProQuest Ebook Central*, [https://ebookcentral.proquest.com/lib/cunygc/detail.action?docID=2082921](https://ebookcentral.proquest.com/lib/cunygc/detail.action?docID=2082921).
