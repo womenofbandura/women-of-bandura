@@ -65,10 +65,10 @@
           {% if page.lyrics %}
             <dd>{{page.lyrics}}</dd>
           {% endif %}
-        <!-- end special metadata treatment if cases -->
         {% else %}
           <dt>{{ item.label }}</dt>
           <dd>{{ value | strip }}</dd>
+        <!-- end special metadata treatment if cases -->
         {% endif %}
     <!-- end outer if statement -->
     {% endif %}
