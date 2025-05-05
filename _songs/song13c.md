@@ -7,14 +7,24 @@ period:
 language: Ukrainian
 location-of-origin:
 genre: Ukrainian Folk Song
-theme:
+theme: Ivan Kupalo festival; summer solstice; bonfire
 tempo:
 time-sig: 4/4 & 2/6
 key: E major
-description: Ukrainian Folk Song
+description:
 lyrics:
-lyrics-english:
-translator:
+lyrics-english: |-
+  So - for John on St. John’s Day
+  We had a little bonfire - yea.
+  As it burned - so it smoked
+  Anna dirtied up her coat.
+  Couldn’t wash it clean at all
+  Vasyl had to help withal.
+  Couldn’t wring it out so well;
+  Vasyl had to help - so swell.
+  On St. John’s just for a laugh;
+  We’ll roast the boys a tasty calf.
+translator: Lidia Wolansky © 2023 WBENA
 lyricist:
 arrangement:
 additional:

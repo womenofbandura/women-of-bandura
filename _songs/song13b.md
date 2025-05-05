@@ -11,7 +11,7 @@ theme: Ivan Kupalo festival; summer solstice
 tempo: Moderato
 time-sig: 6/8
 key: e minor
-description: Ukrainian Folk Song; Instrumental
+description:
 lyrics:
 lyrics-english:
 translator:

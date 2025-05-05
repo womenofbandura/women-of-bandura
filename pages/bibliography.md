@@ -16,11 +16,15 @@ Kononenko, Natalie O. *Ukrainian Minstrels: Why the Blind Should Sing : And the 
 
 Kytasty, Julian and Marcia Ostashewski. “Songs.” *Songs of Truth: Music and Song from the  Kobzar Tradition*. 2015, [http://soundcommunities.org/archives/songs-of-truth/index.html](http://soundcommunities.org/archives/songs-of-truth/index.html)  
 
+Ofman, Daniel. "Ukrainian rock star reflects on a year of war in his country." *The World*. 2 March 2023. [https://theworld.org/stories/2023/03/02/ukrainian-rock-star-reflects-year-war-his-country] (https://theworld.org/stories/2023/03/02/ukrainian-rock-star-reflects-year-war-his-country)
+
 Ostashewski, M. (2001). "Women Playing the Bandura: Challenging Discourses of Nationhood." *Ethnologies*, 23(1), 123–145. [https://doi.org/10.7202/1087919ar](https://doi.org/10.7202/1087919ar)
 
 Randall Genevieve (NET Radio Host). “Irene & Family” *The Sound of Home: A Plainstory Podcast*, Nebraska Public Media, Air Date: 31 October, 2019\.
 
 Rodak, Oksana and Oksana Zelinska, Artistic Directors. *WBENA Boston Digital Program*, 2019\. [https://www.banduristka.org/\_files/ugd/38f973\_697ead3aefa941c0a39059de5090f3de.pdf](https://www.banduristka.org/_files/ugd/38f973_697ead3aefa941c0a39059de5090f3de.pdf)
+
+Rushlefsky, Peter. "Kobzar of the East Village: Julian Kytasty." Center for Traditional Music and Dance. 11 January, 2007. [https://ctmd.org/magazine/master-artists-profiles/kobzar-of-the-east-village-julian-kytasty/] (https://ctmd.org/magazine/master-artists-profiles/kobzar-of-the-east-village-julian-kytasty/)
 
 Shtokalko, Zinovii. *A Kobzar Handbook*. Translated and annotated by Andrij Hornjatkevyč, Canadian Institute of Ukrainian Studies, University of Alberta, 1989\. Digitized by the Internet Archives. [https://archive.org/details/kobzarhandbook34shto](https://archive.org/details/kobzarhandbook34shto)
 
@@ -31,6 +35,8 @@ Tarnawsky, Nadia. [https://www.nadiatarnawsky.com/](https://www.nadiatarnawsky.c
 The Hryhory Kytasty Cleveland School of Bandura. [https://www.hkbanduraschool.org/bandura-education](https://www.hkbanduraschool.org/bandura-education)
 
 The Kytasty Foundation.  [https://thekytastyfoundation.org/](https://thekytastyfoundation.org/)
+
+Ukrainian Magazine. "Bandura at Bobriwka. Workshop Strikes a Chord." 28 July, 2015. [http://ukrainianchi.com/bandura-bobriwka-workshop-strikes-chord/] (http://ukrainianchi.com/bandura-bobriwka-workshop-strikes-chord/)
 
 Ukrainian Weekly Editor. “Concert Review: “Cycles of Song” by the WBENA,” *The Ukrainian Weekly*, Published May 11, 2019\.  
 [https://subscription.ukrweekly.com/concert-review-cycles-of-song-by-the-wbena/](https://subscription.ukrweekly.com/concert-review-cycles-of-song-by-the-wbena/)
