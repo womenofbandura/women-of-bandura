@@ -10,7 +10,7 @@ genre: Folk Song/March
 theme:
 tempo:
 time-sig:
-key: " "
+key:
 description:
 lyrics:
 lyrics-english:

@@ -12,7 +12,8 @@ tempo: 80 BPM
 time-sig: 4/4
 key: e minor
 description: A kozak who leaves for a foreign land and yearns for his distant homeland
-  and his beloved girl
+  and his beloved girl; Although the theme of the song is sad - the song is widely
+  sung due to its uplifting nature and easy-to-sing melody.
 lyrics: "Гей гей гей соколи\r\nОминайте гори ліси доли Дзвінь дзвінь дзвінь дзвіночку
   Степовий жайвороночку"
 lyrics-english: "Hey hey hey falcons\r\nGo around the mountains forests valleys Ring
@@ -22,7 +23,7 @@ lyricist:
 arrangement:
 additional: Although the theme of the song is sad - the song is widely sung due to
   its uplifting nature and easy-to-sing melody.
-youtube-link:
+youtube-link: ""
 recording:
 order: '11'
 layout: song_item

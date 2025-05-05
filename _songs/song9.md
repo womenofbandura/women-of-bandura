@@ -17,7 +17,7 @@ lyrics-english:
 translator:
 lyricist:
 arrangement: Ola Herasymenko-Olijnyk
-additional:
+additional: ""
 youtube-link:
 recording:
 order: '8'

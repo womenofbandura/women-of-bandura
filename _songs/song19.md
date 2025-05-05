@@ -2,23 +2,23 @@
 pid: SONG19
 label: 'Oh Beautiful Crimea '
 ukrainian-title: 'Ey Güzel Qırım '
-composer: " "
-period: " "
-language: " "
-location-of-origin: " "
+composer:
+period:
+language:
+location-of-origin:
 genre: Crimean Folk Song
 theme: Crimea
-tempo: " "
+tempo:
 time-sig: 4/4
 key: e minor
 description: Instumental Bandura Arrnagement
-lyrics: " "
-lyrics-english: " "
-translator: " "
-lyricist: " "
+lyrics:
+lyrics-english:
+translator:
+lyricist:
 arrangement: Ivan Dusanowsyj
 additional: Crimean Folk Song
-youtube-link: " "
+youtube-link:
 recording:
 order: '20'
 layout: song_item

@@ -6,7 +6,7 @@ composer: Hryhory Kytasty
 period: "(1907-1984)"
 language: Ukrainian
 location-of-origin:
-genre:
+genre: Instrumental
 theme:
 tempo: Andantino
 time-sig: 4/4
@@ -18,7 +18,7 @@ translator:
 lyricist:
 arrangement:
 additional:
-youtube-link: https://www.youtube.com/watch?v=NECvzvOzZLQ
+youtube-link:
 recording: "/assets/recordings/SONG2-Homin-Stepiv.mp3"
 order: '1'
 layout: song_item

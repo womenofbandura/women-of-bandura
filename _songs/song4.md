@@ -5,13 +5,13 @@ ukrainian-title: Повіяв вітер степовий
 composer:
 period:
 language: Ukrainian
-location-of-origin: Prykarpattia (Ivano-Frankivsk region - confirm)
+location-of-origin:
 genre: Ukrainian Historical Song
 theme: Love and sorrow; Cossacks
 tempo:
 time-sig:
 key:
-description:
+description: Ukrainian Historical Song; Favorite of the Sich Riflemen
 lyrics:
 lyrics-english:
 translator:

@@ -15,7 +15,7 @@ description: Mother's feelings of sadness and longing for her grownup son
 lyrics:
 lyrics-english:
 translator:
-lyricist: Mykhailo Tkach
+lyricist: Mykhailo Tkach |
 arrangement: Volodymyr Lobko (Arrangement in the public)
 additional:
 youtube-link: https://www.youtube.com/watch?v=iUFmmO2yysc

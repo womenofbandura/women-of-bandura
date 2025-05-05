@@ -5,7 +5,7 @@ ukrainian-title: Під Твою Милость
 composer: Dmytro Bortniansky
 period: 1751 - 1825
 language: Ukrainian
-location-of-origin: " "
+location-of-origin:
 genre: Religious Song
 theme: Hymn to the Mother of God
 tempo: Moderato
