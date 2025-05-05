@@ -16,6 +16,8 @@ Kononenko, Natalie O. *Ukrainian Minstrels: Why the Blind Should Sing : And the 
 
 Kytasty, Julian and Marcia Ostashewski. “Songs.” *Songs of Truth: Music and Song from the  Kobzar Tradition*. 2015, [http://soundcommunities.org/archives/songs-of-truth/index.html](http://soundcommunities.org/archives/songs-of-truth/index.html)  
 
+Ofman, Daniel. "Ukrainian rock star reflects on a year of war in his country." *The World*. 2 March 2023. [https://theworld.org/stories/2023/03/02/ukrainian-rock-star-reflects-year-war-his-country] (https://theworld.org/stories/2023/03/02/ukrainian-rock-star-reflects-year-war-his-country)
+
 Ostashewski, M. (2001). "Women Playing the Bandura: Challenging Discourses of Nationhood." *Ethnologies*, 23(1), 123–145. [https://doi.org/10.7202/1087919ar](https://doi.org/10.7202/1087919ar)
 
 Randall Genevieve (NET Radio Host). “Irene & Family” *The Sound of Home: A Plainstory Podcast*, Nebraska Public Media, Air Date: 31 October, 2019\.
