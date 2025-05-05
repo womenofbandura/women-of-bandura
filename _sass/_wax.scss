@@ -155,8 +155,17 @@ content section
     max-width: 100%;
   }
 
+  .item-content { 
+    display: flex;
+    justify-content: space-between;
+  }
+
   #wax-content {
     min-height: 70vh;
+
+    .left-panel {
+      min-width: 50%;
+    }
 
     .exhibit-meta {
       margin-bottom: $super-margin;
@@ -250,7 +259,7 @@ content section
   @extend .container;
 
   margin: 0 auto;
-  max-width: 90%;
+  min-width: 80%;
   width: $max-width;
   overflow: flex-wrap;
 }
@@ -368,7 +377,7 @@ item pages (iiif + metadata)
 
 .metadata-block {
   font-family: $body-font;
-  max-width: 100%;
+  max-width: 40%;
   border: $neutral 1px solid;
   border-radius: 3px;
   padding: $less-margin;
