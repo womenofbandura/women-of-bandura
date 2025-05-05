@@ -102,10 +102,13 @@ search:
 
 menu:
   - label: 'About'
-    link: '/about/' 
-#    sub:
-#      - label: 'Wax'
-#        link: '/about/'
+    sub:
+      - label: 'History of Women in Bandura'
+        link: '/about/history/'
+      - label: 'About the team'
+        link: '/about/team/'
+      - label: 'Bibliography'
+        link: '/about/bibliography'
   - label: 'Programs'
     link: '/programs/'
   - label: 'Songs'
