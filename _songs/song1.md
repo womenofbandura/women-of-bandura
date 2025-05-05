@@ -5,7 +5,7 @@ ukrainian-title: Під Твою Милость
 composer: Dmytro Bortniansky
 period: 1751 - 1825
 language: Ukrainian
-location-of-origin: " "
+location-of-origin:
 genre: Religious Song
 theme: Hymn to the Mother of God
 tempo: Moderato
@@ -20,7 +20,7 @@ lyrics-english: 'Beneath Thy Mercy - we take refuge - O Virgin: disdain not our 
 translator:
 lyricist:
 arrangement: Lesya Klimchenko
-additional: " "
+additional:
 youtube-link: https://www.youtube.com/watch?v=E72THjx_CG4
 recording:
 order: '0'
