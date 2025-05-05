@@ -22,6 +22,8 @@ Randall Genevieve (NET Radio Host). “Irene & Family” *The Sound of Home: A P
 
 Rodak, Oksana and Oksana Zelinska, Artistic Directors. *WBENA Boston Digital Program*, 2019\. [https://www.banduristka.org/\_files/ugd/38f973\_697ead3aefa941c0a39059de5090f3de.pdf](https://www.banduristka.org/_files/ugd/38f973_697ead3aefa941c0a39059de5090f3de.pdf)
 
+Rushlefsky, Peter. "Kobzar of the East Village: Julian Kytasty." Center for Traditional Music and Dance. 11 January, 2007. [https://ctmd.org/magazine/master-artists-profiles/kobzar-of-the-east-village-julian-kytasty/] (https://ctmd.org/magazine/master-artists-profiles/kobzar-of-the-east-village-julian-kytasty/)
+
 Shtokalko, Zinovii. *A Kobzar Handbook*. Translated and annotated by Andrij Hornjatkevyč, Canadian Institute of Ukrainian Studies, University of Alberta, 1989\. Digitized by the Internet Archives. [https://archive.org/details/kobzarhandbook34shto](https://archive.org/details/kobzarhandbook34shto)
 
 *Songs of Ukraina With Ruthenian Poems*, Translated by Florence Randall Livesay. J. M. Dent & Sons Ltd. London, Paris & Toronto, E. P. Dutton & Co. New York, 1916\. [https://hdl.handle.net/2027/uc1.$b602539](https://hdl.handle.net/2027/uc1.$b602539)
@@ -31,6 +33,8 @@ Tarnawsky, Nadia. [https://www.nadiatarnawsky.com/](https://www.nadiatarnawsky.c
 The Hryhory Kytasty Cleveland School of Bandura. [https://www.hkbanduraschool.org/bandura-education](https://www.hkbanduraschool.org/bandura-education)
 
 The Kytasty Foundation.  [https://thekytastyfoundation.org/](https://thekytastyfoundation.org/)
+
+Ukrainian Magazine. "Bandura at Bobriwka. Workshop Strikes a Chord." 28 July, 2015. [http://ukrainianchi.com/bandura-bobriwka-workshop-strikes-chord/] (http://ukrainianchi.com/bandura-bobriwka-workshop-strikes-chord/)
 
 Ukrainian Weekly Editor. “Concert Review: “Cycles of Song” by the WBENA,” *The Ukrainian Weekly*, Published May 11, 2019\.  
 [https://subscription.ukrweekly.com/concert-review-cycles-of-song-by-the-wbena/](https://subscription.ukrweekly.com/concert-review-cycles-of-song-by-the-wbena/)
