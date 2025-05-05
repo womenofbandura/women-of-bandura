@@ -12,13 +12,13 @@ tempo: смрuмано
 time-sig: 4/4
 key: C major
 description: 'Patriotic Ukrainian Hymn '
-lyrics: " "
-lyrics-english: " "
-translator: " "
+lyrics:
+lyrics-english:
+translator:
 lyricist: Oleksander Konysky
 arrangement: Oleksander Koshyts
-additional: " "
-youtube-link: " "
+additional:
+youtube-link:
 recording:
 order: '7'
 layout: song_item

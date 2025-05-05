@@ -3,21 +3,21 @@ pid: SONG13a
 label: 'Kupalo: Selections from Summer Solstice Suite - Stand, Green Oak'
 ukrainian-title: 'Купало!: Стій Дубе Зеленій'
 composer: Oleh Mahlay
-period: " "
+period:
 language: Ukrainian
-location-of-origin: " "
+location-of-origin:
 genre: Ukrainian Folk Song
 theme: Ivan Kupalo festival; summer solstice; oak tree
 tempo: Помірно (Moderately)
 time-sig: 2/4
 key: g minor
 description: Ukrainian Folk Song
-lyrics: " "
-lyrics-english: " "
-translator: " "
-lyricist: " "
-arrangement: " "
-additional: " "
+lyrics:
+lyrics-english:
+translator:
+lyricist:
+arrangement:
+additional:
 youtube-link:
 recording:
 order: '12'

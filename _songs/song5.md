@@ -3,22 +3,22 @@ pid: SONG5
 label: Zaporizhian March
 ukrainian-title: Запорозький марш
 composer: Yevhen Adamtsevych
-period: " "
+period:
 language: Ukrainian
-location-of-origin: " "
+location-of-origin:
 genre: Folk Song/March
-theme: " "
-tempo: " "
-time-sig: " "
+theme:
+tempo:
+time-sig:
 key: " "
-description: " "
-lyrics: " "
-lyrics-english: " "
-translator: " "
-lyricist: " "
+description:
+lyrics:
+lyrics-english:
+translator:
+lyricist:
 arrangement: Victor Mishalow
-additional: " "
-youtube-link: " "
+additional:
+youtube-link:
 recording:
 order: '4'
 layout: song_item
