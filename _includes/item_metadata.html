@@ -11,7 +11,7 @@
     {% comment %}
     Only display non-empty values
     {% endcomment %}
-    {% if value | strip != '' %}
+    {% if value | strip != '' and value | strip != ' ' %}
       {% if item.type == 'link' %}
         {% if key == 'manifest' %}
           {%- capture value -%}

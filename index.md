@@ -63,4 +63,4 @@ show_title: true
 
 <br>
 Women of Bandura is a digital program archive created in collaboration with the Women's Bandura Ensemble of North America (WBENA) to highlight 
-the contribution of the section of society traditionally excluded from the specific performance culture. Women have and continue to play a vital role in advancing the rich history represented by the instrument that has been synonymous with the Ukrainian identity.  
+the contribution of the section of society traditionally excluded from the specific performance culture. Women have and continue to play a vital role in advancing the rich history represented by the instrument that has been synonymous with Ukrainian identity.  

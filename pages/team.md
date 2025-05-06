@@ -30,8 +30,10 @@ Irene Kuzma, Current President of WBENA
 
 Christina Hlutkowsky, President-Elect of WBENA
 
-Dr. Marcia Ostashewski, Director of the Centre for Sound Communities and Associate Professor in Ethnomusicology, Cape Breton University
+Dr. Marcia Ostashewski, Director of the Centre for Sound Communities and Associate Professor in Ethnomusicology, Cape Breton University, Canada
 
 Dr. Maria Sonevytsky, Associate Professor of Anthropology and Music, Bard College, USA
 
 Nadia Tarnawsky, Singer, Bandurist, Teacher
+
+Dr. Bret Maney, Professor of Digital Humanities, CUNY Graduate Center, USA 
