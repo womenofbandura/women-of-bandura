@@ -164,7 +164,11 @@ content section
     min-height: 70vh;
 
     .left-panel {
-      min-width: 50%;
+      width: 50%;
+    }
+
+    .right-panel {
+      width: 40%;
     }
 
     .exhibit-meta {
@@ -377,7 +381,6 @@ item pages (iiif + metadata)
 
 .metadata-block {
   font-family: $body-font;
-  max-width: 40%;
   border: $neutral 1px solid;
   border-radius: 3px;
   padding: $less-margin;
