@@ -17,10 +17,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Women of Bandura'
+title:            'Women of Bandura - North America'
 description:      'In Collaboration with <a href="https://www.banduristka.org/">WBENA</a>' 
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://womenofbandura.github.io'
+baseurl:          '/women-of-bandura'
 copyright:        'WBENA, 2025'
 logo:             'img/WOBLogo.png'
 default_thumb:    '/assets/default.png'
