@@ -8,7 +8,7 @@ show_title: true
 #  clickable: yes
 #  height: '500px'
 ---
-# **Women of Bandura**
+# **Women of Bandura - North America**
 
 <section>
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -62,5 +62,7 @@ show_title: true
 </section>
 
 <br>
-Women of Bandura is a digital program archive created in collaboration with the Women's Bandura Ensemble of North America (WBENA) to highlight 
-the contribution of the section of society traditionally excluded from the specific performance culture. Women have and continue to play a vital role in advancing the rich history represented by the instrument that has been synonymous with Ukrainian identity.  
+<p>Women of Bandura - North America (WOB) is a digital program archive created in collaboration with the Women's Bandura Ensemble of North America (WBENA) to highlight 
+the contribution of the section of society traditionally excluded from the specific performance culture. Women have and continue to play a vital role in advancing the rich history represented by the instrument that has been synonymous with Ukrainian identity.</p>
+
+<p>This inaugural version of WOB was created over the Spring 2025 Semester as part of the course DHUM 70002 Methods and Practices at the CUNY Graduate Center. As such, this site is considered a proof of concept with archives updating moment to moment. If you notice any missing information that you would like to share, please find our email at the <a href='{{ "/contact/" | absolute_url }}'>Contact Page.</a></p>
