@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Short History of Women in Bandura
+title: A Short History of Women in Bandura in North America
 permalink: /about/history/
 ---
 
