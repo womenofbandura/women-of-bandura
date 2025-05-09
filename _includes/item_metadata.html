@@ -46,7 +46,7 @@
           <dt>{{ item.label }}</dt>
           {% assign songArr = value | split: '; ' %}
           {% for key in songArr %}
-            {% assign song = site.data[include.collection] | find: "pid", key %}
+            {% assign song = site.songs | find: "pid", key %}
             <dd><a href="{{site.baseurl}}/songs/{{ key }}">{{song.label}}</a></dd>
           {% endfor %}
         <!-- song metadata -->
