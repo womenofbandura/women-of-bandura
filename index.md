@@ -8,7 +8,6 @@ show_title: true
 #  clickable: yes
 #  height: '500px'
 ---
-# **Women of Bandura - North America**
 
 <section>
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -27,19 +26,19 @@ show_title: true
         <div class="carousel-item">
           <img class="d-block w-100" src="img/History_CTA.jpg" alt="Second slide">
           <div class="carousel-caption d-none d-md-block">
-            <a class="btn btn-primary" href="/wax/about/history/" role="button">StoryMap</a>
+            <a class="btn btn-primary" href="{{ '/about/history' | absolute_url }}" role="button">StoryMap</a>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="img/Programleaf.jpg" alt="Third slide">
           <div class="carousel-caption d-none d-md-block">
-            <a class="btn btn-primary" href="/wax/programs/" role="button">Programs</a>
+            <a class="btn btn-primary" href="{{ '/programs' | absolute_url }}"  role="button">Programs</a>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="img/Songleaf.jpg" alt="Fourth slide">
           <div class="carousel-caption d-none d-md-block">
-            <a class="btn btn-primary" href="/wax/songs/" role="button">Songs</a>
+            <a class="btn btn-primary" href="{{ '/songs' | absolute_url }}"  role="button">Songs</a>
           </div>
         </div>
       </div>
