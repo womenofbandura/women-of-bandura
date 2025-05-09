@@ -1,6 +1,7 @@
 ---
 layout: page
 show_title: true
+title: Women of Bandura - North America
 #banner:
 #  collection: women of bandura
 #  pid: obj10
