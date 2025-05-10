@@ -48,9 +48,6 @@
           {% for key in songArr %}
             {% assign song = site.data.songs | where: "pid", key | first %}
             <dd><a href="{{site.baseurl}}/songs/{{ key }}">{{song.label}}</a></dd>
-            {% if song %}
-              {{ song | jsonify }}
-            {% endif %}
           {% endfor %}
         <!-- song metadata -->
         {% comment %}
