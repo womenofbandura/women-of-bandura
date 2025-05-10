@@ -47,7 +47,7 @@
           {% assign songArr = value | split: '; ' %}
           {% for key in songArr %}
             {% assign song = site.data.songs | where: "pid", key | first %}
-            <dd><a href="{{site.baseurl}}/songs/{{ key }}">{{song.label}}</a></dd>
+            <dd><a href="{{site.baseurl}}/songs/{{ key | downcase }}">{{song.label}}</a></dd>
           {% endfor %}
         <!-- song metadata -->
         {% comment %}
