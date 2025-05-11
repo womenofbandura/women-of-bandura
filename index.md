@@ -20,24 +20,29 @@ show_title: true
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="img/WOBbanner.jpg" alt="First slide">
+          <img class="d-block w-100" src="img/Carousel-WBENA1.png" alt="Image courtesy WBENA.">
           <div class="carousel-caption d-none d-md-block">
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="img/History_CTA.jpg" alt="Second slide">
+          <img class="d-block w-100" src="img/WBENA-Emlenton-PA.png" alt="Participants at the August rehearsal in Elmenton, Pennsylvania. Image courtesy WBENA.">
           <div class="carousel-caption d-none d-md-block">
-            <a class="btn btn-primary" href="/wax/about/history/" role="button">StoryMap</a>
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="img/Programleaf.jpg" alt="Third slide">
+          <img class="d-block w-100" src="img/StoryMap-screenshot.png" alt="Screenshot of interactive StoryMap.">
+          <div class="carousel-caption d-none d-md-block">
+            <a class="btn btn-primary" href="/wax/about/history/" role="button">History</a>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="img/Programleaf.jpg" alt="Programs, courtesy WBENA.">
           <div class="carousel-caption d-none d-md-block">
             <a class="btn btn-primary" href="/wax/programs/" role="button">Programs</a>
           </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="img/Songleaf.jpg" alt="Fourth slide">
+          <img class="d-block w-100" src="img/Songleaf.jpg" alt="Sheet music, courtesy WBENA.">
           <div class="carousel-caption d-none d-md-block">
             <a class="btn btn-primary" href="/wax/songs/" role="button">Songs</a>
           </div>
