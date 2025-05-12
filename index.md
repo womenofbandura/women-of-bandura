@@ -1,6 +1,7 @@
 ---
 layout: page
 show_title: true
+title: Women of Bandura - North America
 #banner:
 #  collection: women of bandura
 #  pid: obj10
@@ -8,7 +9,6 @@ show_title: true
 #  clickable: yes
 #  height: '500px'
 ---
-# **Women of Bandura - North America**
 
 <section>
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -32,19 +32,19 @@ show_title: true
         <div class="carousel-item">
           <img class="d-block w-100" src="img/StoryMap-screenshot.png" alt="Screenshot of interactive StoryMap.">
           <div class="carousel-caption d-none d-md-block">
-            <a class="btn btn-primary" href="/wax/about/history/" role="button">History</a>
+            <a class="btn btn-primary" href="{{ '/about/history' | absolute_url }}" role="button">StoryMap</a>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="img/Programleaf.jpg" alt="Programs, courtesy WBENA.">
           <div class="carousel-caption d-none d-md-block">
-            <a class="btn btn-primary" href="/wax/programs/" role="button">Programs</a>
+            <a class="btn btn-primary" href="{{ '/programs' | absolute_url }}"  role="button">Programs</a>
           </div>
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="img/Songleaf.jpg" alt="Sheet music, courtesy WBENA.">
           <div class="carousel-caption d-none d-md-block">
-            <a class="btn btn-primary" href="/wax/songs/" role="button">Songs</a>
+            <a class="btn btn-primary" href="{{ '/songs' | absolute_url }}"  role="button">Songs</a>
           </div>
         </div>
       </div>
