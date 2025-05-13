@@ -282,6 +282,16 @@ content section
   overflow: flex-wrap;
 }
 
+.wax-footer-container {
+  display: flex;
+  @media (max-width: $breakpoint-md) {
+    flex-direction: column;
+    > .col {
+      flex-basis: auto;
+    }
+  }
+}
+
 .full-width {
   width: 100vw;
   position: relative;
