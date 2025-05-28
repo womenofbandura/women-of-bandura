@@ -62,8 +62,6 @@ collections:
     metadata:
       source: 'concerts.csv' # path to the metadata file within `_data`
   songs:
-    output: true
-    layout: 'song_item'
     metadata:
       source: 'songs.csv'
 
