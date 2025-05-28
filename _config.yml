@@ -17,12 +17,12 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'New York Bandura School Archive'
-description:      '' 
-url:              'https://nybs-archive.github.io'
-baseurl:          '/ny-bandura-school-archive'
-copyright:        'New York Bandura School 2025'
-logo:             'img/nybs_logo.png'
+title:            'Women of Bandura - North America'
+description:      'In Collaboration with <a href="https://www.banduristka.org/">WBENA</a>' 
+url:              'https://womenofbandura.github.io'
+baseurl:          '/women-of-bandura'
+copyright:        'WBENA, 2025'
+logo:             'img/WOBLogo.png'
 default_thumb:    '/assets/default.png'
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -56,14 +56,20 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  concerts: # name of collection
+  programs: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'concert_item' # the layout for the pages to use
+    layout: 'program_item' # the layout for the pages to use
     metadata:
-      source: 'concerts.csv' # path to the metadata file within `_data`
+      source: 'programs.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/programs'
   songs:
+    output: true
+    layout: 'song_item'
     metadata:
       source: 'songs.csv'
+    images:
+      source: 'raw_images/songs'
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -96,9 +102,15 @@ search:
 
 menu:
   - label: 'About'
-    link: '/about'
-  - label: 'Concerts'
-    link: '/concerts/'
+    sub:
+      - label: 'History of Women in Bandura'
+        link: '/about/history/'
+      - label: 'About the team'
+        link: '/about/team/'
+      - label: 'Bibliography'
+        link: '/about/bibliography'
+  - label: 'Programs'
+    link: '/programs/'
   - label: 'Songs'
     link: '/songs/'
   - label: 'Contact'
@@ -110,9 +122,14 @@ menu:
 #
 
 footer:
+  links:
+    - label: <svg width="24" height="24" viewBox="0 0 320 256" version="1.1"> <Path d="M69.364 19.146c36.687 27.806 76.147 84.186 90.636 114.439 14.489-30.253 53.948-86.633 90.636-114.439C277.107-.917 320-16.44 320 32.957c0 9.865-5.603 82.875-8.889 94.729-11.423 41.208-53.045 51.719-90.071 45.357 64.719 11.12 81.182 47.953 45.627 84.785-80 82.874-106.667-44.333-106.667-44.333s-26.667 127.207-106.667 44.333c-35.555-36.832-19.092-73.665 45.627-84.785-37.026 6.362-78.648-4.149-90.071-45.357C5.603 115.832 0 42.822 0 32.957 0-16.44 42.893-.917 69.364 19.147Z" /></svg>
+      link: 'https://bsky.app/profile/womenofbandura.bsky.social'
+    - label: <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0px" y="0px" width="30" height="30" viewBox="0 0 50 50" style="null" class="icon icons8-Facebook-Filled" >    <path d="M40,0H10C4.486,0,0,4.486,0,10v30c0,5.514,4.486,10,10,10h30c5.514,0,10-4.486,10-10V10C50,4.486,45.514,0,40,0z M39,17h-3 c-2.145,0-3,0.504-3,2v3h6l-1,6h-5v20h-7V28h-3v-6h3v-3c0-4.677,1.581-8,7-8c2.902,0,6,1,6,1V17z"></path></svg>
+      link: 'https://www.facebook.com/profile.php?id=61575786400181'
   logos:
     - img: 'img/GC_LOGO_transparent.webp'
       link: 'https://www.gc.cuny.edu/'
-    - img: 'img/nybs_logo.png'
-      link: 'https://www.eventbrite.com/o/new-york-bandura-school-95946254093'
+    - img: 'img/Bilingual_WBE_Logo.png'
+      link: 'https://www.banduristka.org/'
 # FIN
