@@ -1,84 +1,18 @@
-pid,label,ukrainian-title,composer,period,language,location-of-origin,genre,theme,tempo,time-sig,key,description,lyrics,lyrics-english,translator,lyricist,arrangement,additional,youtube-link,recording,order,layout,collection,thumbnail,full,manifest
-SONG1,Beneath Thy Mercy ,Під Твою Милость,Dmytro Bortniansky,1751 - 1825,Ukrainian,,Religious Song,Hymn to the Mother of God,Moderato,2/4,b minor,Asking Mary - Birthgiver of God - in her mercy for deliverance from their time of sorrow - and protection during their attempts to flee,,Beneath Thy Mercy - we take refuge - O Virgin: disdain not our supplications in our distress - but deliver us from perils - o only pure and blessed one. Most Holy Virgin - save us.,,,Lesya Klimchenko,,https://www.youtube.com/watch?v=E72THjx_CG4,,0,song_item,songs,"/img/derivatives/iiif/images/SONG1_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG1_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG1/manifest.json
-SONG2,The Echo of the Steppes,Гомін Степів,Hryhory Kytasty,(1907-1984),Ukrainian,,Instrumental,,Andantino,4/4,e minor,Instrumental homage to the Steppe where Hryhory Kytasty grew up,,,,,,,,/assets/recordings/SONG2-Homin-Stepiv.mp3,1,song_item,songs,"/img/derivatives/iiif/images/SONG2_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG2_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG2/manifest.json
-SONG3,Son - the Ducks Are Flying,Сину - Качки Летяать,Oleksander Bilash,,,,,mother; son; sadness; longing; time,Calmly restrained,3/4,a minor,Mother's feelings of sadness and longing for her grownup son,,,,Mykhailo Tkach |,Volodymyr Lobko (Arrangement in the public),,https://www.youtube.com/watch?v=iUFmmO2yysc,,2,song_item,songs,"/img/derivatives/iiif/images/SONG3_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG3_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG3/manifest.json
-SONG4,The Steppe Wind Did Blow,Повіяв вітер степовий,,,Ukrainian,,Ukrainian Historical Song,Love and sorrow; Cossacks,,,,Ukrainian Historical Song; Favorite of the Sich Riflemen,,,,Ivan Vytvytsky,L. Duda,Favorite of the Sich Riflemen,,,3,song_item,songs,,,
-SONG5,Zaporizhian March,Запорозький марш,Yevhen Adamtsevych,,Ukrainian,,Folk Song/March,,,,,,,,,,Victor Mishalow,,,,4,song_item,songs,,,
-SONG6,Volya,Воля,Maryna Krut,2022,Ukrainian,,Modern Ukrainian Music; Soul,Mother; freedom; don't cry; rebirth; sunflowers,,,,,"Мамо - не плач.
-Ти мене народила для волі
-І ціною власної крові
-В полі соняшники проростуть
- 
-https://lyricstranslate.com/en/krut-volya-lyrics.html","Do not cry - you gave birth to me for freedom.
-We will prevail -
-and from our blood spilt in the fields - sunflowers will grow instead.",,,,,,,5,song_item,songs,,,
-SONG7,Don’t Cry - Mama,Ох і не крич мати,Mykola Lysenko,,,,Ukrainian Folk Song,Mother; soldier; war; don't cry,72 BPM,4/4,c minor,Ukrainian Folk Song,,"Lullaby once - twice lullaby until we pass the Danube by
-Until we pass the Danube’s swell and beat upon the drum as well -
-That’s when - Mama - you can cry - when you see him on the fly.
-He is serving in the war - On a horse as black as tar.
-On a tar-black horse he rides with sword and rifle at his side.",Lidia Wolansky © 2023 WBENA,,Ivan Dusanowskyj,,,,6,song_item,songs,"/img/derivatives/iiif/images/SONG7_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG7_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG7/manifest.json
-SONG8,Prayer For Ukraine ,Молитва За Україну,Mykola Lysenko,1885,Ukrainian,Kyiv - Ukraine,Religious Song / Anthem,Religion; patriotism,смрuмано,4/4,C major,Patriotic Ukrainian Hymn ,,"Lord - oh the Great and Almighty;
-Protect our beloved Ukraine;
-Bless her with freedom and light
-Of your holy rays.
-With learning and knowledge enlighten
-Us - your children small
-In love pure and everlasting
-Let us - oh Lord - grow.
-We pray - oh Lord Almighty
-Protect our beloved Ukraine;
-Grant our people and country
-All your kindness and grace.
-Bless us with freedom - bless us with wisdom;
-Guide into kind world;
-Bless us - oh Lord - with good fortune
-Forever and ever more.",Dmytro Shostak,Oleksander Konysky,Oleksander Koshyts,,,,7,song_item,songs,"/img/derivatives/iiif/images/SONG8_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG8_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG8/manifest.json
-SONG9,Melody,Українська Мелоія,Myroslav Skoryk,,,,Religious Song,religion; Limyk region,Moderato 70 bpm,4/4,a minor,Religious song from the traditional lirnyk repertoire,,,,,Ola Herasymenko-Olijnyk,,,,8,song_item,songs,"/img/derivatives/iiif/images/SONG9_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG9_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG9/manifest.json
-SONG10,Across the Wide Field,Cherez Pole Shyrokeye,,,Ukrainian,,Religious Song,spring; rebirth; redemption; resurrection; Christianity; Mother of God; pain giving way to new beginnings; religion,Andante,3/4,G major,Follows the Mother of God as she witnesses the Crucifixion,,"And across the wide sea
-Walked the blessed Mother of God
-To the place where they seized Christ;
-Nailed Him to the cross;
-Pounded nails into his precious hands.
-We praise you - O Son of God
-May your Grace
-Help us in our hour of need.",Alex Kuzma © 2018 WBENA,,Victor Kytasty,,https://www.youtube.com/watch?v=9XXKXNSpsgg,,9,song_item,songs,"/img/derivatives/iiif/images/SONG10_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG10_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG10/manifest.json
-SONG11,To My Son,Виростеш ти - сину,Anatoli Pashkevych,,Ukrainian,,Ukrainian Folk Song,Mother; son; homeland; motherland,45 dotted quarter note bpm,6/8,e minor,"Mother tells her son:  “You can choose your friends - son - and your soul
-brother; but one thing you can’t choose is your own mother. You can choose anything you might
-want in this wide strand - one thing you cannot choose - son - is your motherland.”",,,,Vasyl Symonenko,Mykola Deychakiwsky,,https://www.youtube.com/watch?v=36vhsTGXlko,,10,song_item,songs,"/img/derivatives/iiif/images/SONG11_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG11_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG11/manifest.json
-SONG12,Hey - Falcons,Гей Соколи,,,Ukrainian,,Polish-Ukrainian Folk Song,Kozak; leaving homeland; distant love; homesickness,80 BPM,4/4,e minor,A kozak who leaves for a foreign land and yearns for his distant homeland and his beloved girl; Although the theme of the song is sad - the song is widely sung due to its uplifting nature and easy-to-sing melody.,"Гей гей гей соколи
-Оминайте гори ліси доли Дзвінь дзвінь дзвінь дзвіночку Степовий жайвороночку","Hey hey hey falcons
-Go around the mountains forests valleys Ring ring ring little bell - Steppe lark.",,,,Although the theme of the song is sad - the song is widely sung due to its uplifting nature and easy-to-sing melody.,,,11,song_item,songs,"/img/derivatives/iiif/images/SONG12_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG12_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG12/manifest.json
-SONG13a,"Kupalo: Selections from Summer Solstice Suite - Stand, Green Oak",Купало!: Стій Дубе Зеленій,Oleh Mahlay,,Ukrainian,,Ukrainian Folk Song,Ivan Kupalo festival; summer solstice; oak tree; red shoes; mother; daughter; dancing; freedom,Помірно (Moderately),2/4,g minor,,,"A little girl went walking on the street
-wearing very red shoes on her feet.
-Chorus:
-Stand - you oak so green.
-on oak acorns seen.
-Dew fell on the cleared-out field
-washed the street on St. John’s feast.
-Wearing very red shoes on her feet
-bought by a Kozak boy on Market Street.
-Mother would not ever let me go.
-locked me in the larder - just so.
-Sit there - darling daughter - in the shop
-until the evening parties all break up.
-I dug my way right out of there - dear Mum,
-went on the street and simply had my fun.",Lidia Wolansky © 2023 WBENA,,,,,,12,song_item,songs,"/img/derivatives/iiif/images/SONG13a_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG13a_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG13a/manifest.json
-SONG13b,Kupalo: Selections from Summer Solstice Suite - Games,Купало!: Ігри;,Oleh Mahlay,,,,Ukrainian Folk Song,Ivan Kupalo festival; summer solstice,Moderato,6/8,e minor,,,,,,,,,,13,song_item,songs,"/img/derivatives/iiif/images/SONG13b_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG13b_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG13b/manifest.json
-SONG13c,Kupalo: Selections from Summer Solstice Suite - Fire!,Купало!: Вогонь!,Oleh Mahlay,,Ukrainian,,Ukrainian Folk Song,Ivan Kupalo festival; summer solstice; bonfire,,4/4 & 2/6,E major,,,"So - for John on St. John’s Day
-We had a little bonfire - yea.
-As it burned - so it smoked
-Anna dirtied up her coat.
-Couldn’t wash it clean at all
-Vasyl had to help withal.
-Couldn’t wring it out so well;
-Vasyl had to help - so swell.
-On St. John’s just for a laugh;
-We’ll roast the boys a tasty calf.",Lidia Wolansky © 2023 WBENA,,,,,,14,song_item,songs,"/img/derivatives/iiif/images/SONG13c_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG13c_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG13c/manifest.json
-SONG14,Boat,Човен,Sviatoslav Vakarchuk,2022,Ukrainian,,Ukrainian Rock Song,russo-Ukrainian War; Dnipro River; Unity; National Identity,,,,Performed by Vakarchuk near the Antonivskyi Bridge - which had been destroyed by Russian forces - as a symbol of Ukraine’s national unity and the “spiritual bridge” linking the left and right banks of the Dnipro,,,,,,Performed by The Chicago Bandura Ensemble,,,15,song_item,songs,,,
-SONG15,Ballad About Mallows ,Балада про мальви,Volodymyr Ivasiuk,,,,Ballad,,,,,,,,,Bohdan Hura,T. Ivashchuk,Performed by Toronto Regional Group,,,16,song_item,songs,,,
-SONG16,Tyndy-Ryndy ,Тинди-Ринди,VIKA,,,,Ukrainian Folk-Inspired Song,,,,,Ukrainian Folk-Inspired Song by VIKA,,,,,Teryn Kytasty-Kuzma,Performed by East Coast and Mid-Atlantic Region,,,17,song_item,songs,"/img/derivatives/iiif/images/SONG16_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG16_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG16/manifest.json
-SONG17,Summertime,Ой ходить сон коло вікон,George Gershwin,,Ukrainian,,Ukrainian Folk Song,Summer,dolce,6/8 & 3/4,a minor; e minor,Ukrainian Folk Lullaby ,,,,,Krystina Lewicki,For James Wyatt,,,18,song_item,songs,"/img/derivatives/iiif/images/SONG17_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG17_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG17/manifest.json
-SONG18,Mother of Mercy ,Мати Милосерда,Daniil Tuptalo,,Ukrainian,,Religious Song,Mother of God; religion; mercy,Moderately. Prayerfully.(Помірно. Молитовно),3/4,,Hymn to the Mother of God,,,,,Hanna Havrylets,Trans. for female choir: V. Chuchman,,,19,song_item,songs,"/img/derivatives/iiif/images/SONG18_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG18_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG18/manifest.json
-SONG19,Oh Beautiful Crimea ,Ey Güzel Qırım ,,,,,Crimean Folk Song,Crimea,,4/4,e minor,Instumental Bandura Arrnagement,,,,,Ivan Dusanowsyj,Crimean Folk Song,,,20,song_item,songs,"/img/derivatives/iiif/images/SONG19_0/full/250,/0/default.jpg","/img/derivatives/iiif/images/SONG19_0/full/1140,/0/default.jpg",/img/derivatives/iiif/SONG19/manifest.json
-SONG20,Paint me the Night ,Намалюй мені ніч,Myroslav Skoryk,,,,Instrumental,,,,,,Mykola Petrenko,,,,Nick and Maria Smereka-Hladio,Performed by Mid-Atlantic Trio,,,21,song_item,songs,,,
-SONG21,Yanchyk,Янчик,,,,,Lemko Folk Song,,,,,Lemko Folk Song,,,,,Anastasiia Voytyuk,Performed by East Coast & Mid-Atlantic Regional Groups,,,22,song_item,songs,,,
+pid,number,title,genre,language,youtube,concert,,
+SONG1,1,Радуйся Земле Коляда iде / The Christmas Carol,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/RmS_shFlEEo,CONC1,,
+SONG2,2,Ой Bидить Бог / Oh God Sees,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/GyU7EC8py04,CONC1,,
+SONG3,3,Ой радуйся земле / Rejoice Oh Earth,Коліадка / Christmas Carol,Ukrainian,,CONC1,,
+SONG4,4,Хрістос Народівся / Christ is Born,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/Z0CIvlIvD9A,CONC1,,
+SONG5,5,Що то за предиво / What Great Wonder this Is,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/e96ISj-OVo8,CONC1,,
+SONG6,6,Щедрий вечір; добрий вечір / Generous Evening; Good Evening,Щедривка / New Year’s Song,Ukrainian,https://youtu.be/FrX23CwKq3c,CONC1,,
+SONG7,7,Song 7,,Ukrainian,https://youtu.be/WC3b-oyMlws,CONC1,,
+SONG8,8,Нoвa рaдість стaла / A New Joy Has Come,Коліадка / Christmas Carol,Instrumental,https://youtu.be/Ef6maqYHH8g,CONC1,,
+SONG9,9,Добрий вечір тобі / Good Evening to You,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/jAFz_seiSYg,CONC1,,
+SONG10,10,Щедрик / The Little Swallow (Carol of the Bells),Щедривка / New Year’s Song,Ukrainian,https://youtu.be/ZQpr4ysH10M,CONC1,,
+SONG11,11,Павочка ходить / Oh the Peacock is Coming,Epiphany Carol,Instrumental,https://youtu.be/AnJd6ytOhYc,CONC1,,
+SONG12,12,Song 12,,Instrumental,https://youtu.be/qn2Z7Wav8qs,CONC1,,
+SONG13,13,Interlude / Thank you,Interlude,English / Ukrainian,https://youtu.be/Gr5MzsbhDxU,CONC1,,
+SONG14,14,Во Вифлеємі зоря сіяє / In Bethlehem Shines a Star,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/kC40neGbWs8,CONC1,,
+SONG15,15,На Йорданській річці / On the Jordan River,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/0v-Ly2uXhCc,CONC1,,
+SONG16,16,Нeбо і зeмля / Heaven and Earth,Коліадка / Christmas Carol,Ukrainian,https://youtu.be/HLvMfFCopro,CONC1,,
+SONG17,17,Stille Nacht / Silent Night / Туха Ніч,Коліадка / Christmas Carol,German / English / Ukrainian,https://youtu.be/rUc5e91_-Iw,CONC1,,
