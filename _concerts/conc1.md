@@ -2,6 +2,7 @@
 pid: CONC1
 label: 2006 Christmas Concert
 _date: Jan 14, 2006
+year: '2006'
 location:
 format: CD
 from: Julian Kytasty
